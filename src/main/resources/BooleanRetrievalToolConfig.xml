@@ -1,0 +1,65 @@
+<com.smhumayun.datascience.ire.booleanretrieval.config.BooleanRetrievalToolConfig>
+    <searchQuery>brutus and caesar and not calpurnia</searchQuery>
+    <inputDocuments>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/Doc-1.txt</inputDocumentPath>
+            <inputDocumentIndex>1</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/Doc-2.txt</inputDocumentPath>
+            <inputDocumentIndex>2</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-4.txt</inputDocumentPath>
+            <inputDocumentIndex>4</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-11.txt</inputDocumentPath>
+            <inputDocumentIndex>11</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-31.txt</inputDocumentPath>
+            <inputDocumentIndex>31</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-45.txt</inputDocumentPath>
+            <inputDocumentIndex>45</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-173.txt</inputDocumentPath>
+            <inputDocumentIndex>173</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-174.txt</inputDocumentPath>
+            <inputDocumentIndex>174</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-5.txt</inputDocumentPath>
+            <inputDocumentIndex>5</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-6.txt</inputDocumentPath>
+            <inputDocumentIndex>6</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-16.txt</inputDocumentPath>
+            <inputDocumentIndex>16</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-57.txt</inputDocumentPath>
+            <inputDocumentIndex>57</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-132.txt</inputDocumentPath>
+            <inputDocumentIndex>132</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-54.txt</inputDocumentPath>
+            <inputDocumentIndex>54</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+        <com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+            <inputDocumentPath>C:/Users/Humayun/Google Drive/MS Data Science/IRE - Information Retrieval and Extraction/Projects/BooleanRetrievalTool/src/main/resources/docs/Doc-101.txt</inputDocumentPath>
+            <inputDocumentIndex>101</inputDocumentIndex>
+        </com.smhumayun.datascience.ire.booleanretrieval.config.InputDocumentConfig>
+    </inputDocuments>
+</com.smhumayun.datascience.ire.booleanretrieval.config.BooleanRetrievalToolConfig>
